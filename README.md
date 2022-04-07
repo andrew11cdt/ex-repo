@@ -16,10 +16,4 @@
 8
 9
 10
-// add something else (5 lines)
-a
-b
-c
-d
-e
 
